@@ -1,3 +1,4 @@
+[![MasterHead](https://qrangers.com/wp-content/uploads/2021/09/Banner-Introduction-to-3D-Animation.png)](https://paras-13.io)
 <h1 align="center">Hi 👋, I'm Paras Upadhyay</h1>
 <!-- <h3 align="center">A passionate competetive programer and coder</h3> -->
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif">
