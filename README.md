@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **C**
 
-- 👨‍💻 All of my projects are available at [paras-profile.netlify.app](paras-profile.netlify.app)
+- 👨‍💻 All of my projects are available at [https://paras-profile.netlify.app/](https://paras-profile.netlify.app/)
 
 - 💬 Ask me about **Python, C and JS**
 
