@@ -1,5 +1,5 @@
 
-[![MasterHead]([https://qrangers.com/wp-content/uploads/2021/09/Banner-Introduction-to-3D-Animation.png](https://hotpot.ai/s/art-generator/8-cXC66c43fGAqalp))](https://paras-13.io)
+[![MasterHead](https://qrangers.com/wp-content/uploads/2021/09/Banner-Introduction-to-3D-Animation.png))](https://paras-13.io)
 <h1 align="center">Hi 👋, I'm Paras Upadhyay</h1>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=paras-13&label=Profile%20views&color=0e75b6&style=flat" alt="paras-13" /> </p>
