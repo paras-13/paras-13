@@ -5,13 +5,11 @@
 
 <p align="left"> <a href="https://twitter.com/parasupadhyay_" target="blank"><img src="https://img.shields.io/twitter/follow/parasupadhyay_?logo=twitter&style=for-the-badge" alt="parasupadhyay_" /></a> </p>
 
-- 🌱 I’m currently learning **JAVA and WebDev**
-
-- 👨‍💻 All of my projects are available at [paras-profile.netlify.app](paras-profile.netlify.app)
-
-- 💬 Ask me about **Python, C/C++ and JS**
-
-- 📫 How to reach me **paras13upadhyay@gmail.com**
+- <p>🎓 B.Tech CSE Student | 💻 Web Developer | 📚 DSA Enthusiast</p>
+- <p>🌐 Building full-stack projects with <strong>React</strong> and <strong>Node</strong></p>
+- <p>👨‍💻 All of my projects are available at <a href="https://parasupadhyay.vercel.app/" target="_blank">my-profile</a></p>
+- <p>💬 Ask me about <strong>C++</strong>, <strong>JS</strong>, <strong>DSA</strong> and <strong>WebDev</strong></p> 
+- <p>📫 How to reach me <strong><a href="mailto:paras13upadhyay@gmail.com">Mail</a></strong></p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -23,12 +21,30 @@
 <a href="https://discord.gg/FkkNUNyak2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="FkkNUNyak2" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+<div>
+  <h3>Languages:</h3>
+<img src="https://skillicons.dev/icons?i=c,cpp,java,python,javascript,typescript,html,css,bash" alt="Languages" />
+  <h3>Frameworks and Librarys:</h3>
+<img src="https://skillicons.dev/icons?i=tailwind,bootstrap,react,next,vite,laravel,nodejs,express,redux,jquery" alt="Frameworks and Libraries" />
+  <h3>Tools:</h3>
+  <img src="https://skillicons.dev/icons?i=npm,mongodb,mysql,postgres,docker,jenkins,vercel,replit,git,github,gitlab,vscode,powershell,postman,figma,linux,ubuntu,aws,codepen" alt="Tools and Platforms" />
+</div>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=paras-13&show_icons=true&locale=en&layout=compact" alt="paras-13" /></p>
+<h3>Stats:</h3>
+<div >
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=paras-13&show_icons=true&locale=en" alt="paras-13" /></p>
+  <div style="display:flex">
+     <div>
+        <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=paras-13&show_icons=true&locale=en&layout=compact" alt="paras-13" />
+      </div>
+      <div>
+          <img src="https://github-readme-streak-stats.herokuapp.com/?user=paras-13&" alt="paras-13" />
+          <img  src="https://github-readme-stats.vercel.app/api?username=paras-13&show_icons=true&locale=en" alt="paras-13" />
+      </div>
+  </div>
+  <img src="https://github-profile-trophy.vercel.app/?username=paras-13" alt="paras-13" />
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=paras-13&" alt="paras-13" /></p>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=paras-13" alt="paras-13" /></a> </p>
+</div>
+
+
+
